@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Demo05");
+
+            #region Q1
+            Console.WriteLine("Hello,Assignment05");
+            #endregion
+            #region Q2
+            Console.WriteLine("Hello");
+            #endregion
         }
     }
 }
